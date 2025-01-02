@@ -1,0 +1,2 @@
+# mingBlog
+hugo blog
